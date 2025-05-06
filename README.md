@@ -1,0 +1,2 @@
+# numpy
+Studying NumPy
